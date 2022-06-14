@@ -5,7 +5,7 @@ You will surely have to modify the code of the web application to adapt it to yo
 
 ⚠️ This project works with the [Easy-Upgrader-Server](https://github.com/Electron-Minecraft-Launcher/Easy-Upgrader-Server) project.
 
-### Using
+## Using
 
 The most important part of this project is the `/upgrade/index.php`. The rest of the project is only there as an example to test the web application.
 
